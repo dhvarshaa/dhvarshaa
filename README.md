@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhvarshaa&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhvarshaa&layout=compact) -->
 
 <!-- ![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhvarshaa&show_icons=true) -->
